@@ -3,7 +3,7 @@ const faker = require("faker");
 let db = { people: [] };
 const qtty = 12;
 
-for (let index = 0; index <= qtty; index++) {
+for (let index = 1; index <= qtty; index++) {
     db.people.push({
         id: index,
         name: faker.name.findName(),
@@ -15,3 +15,5 @@ for (let index = 0; index <= qtty; index++) {
         country: faker.address.country()
     });
 }
+
+console.log(JSON.stringify(db));
