@@ -15,5 +15,3 @@ for (let index = 0; index <= qtty; index++) {
         country: faker.address.country()
     });
 }
-
-console.log(JSON.stringify(db));
