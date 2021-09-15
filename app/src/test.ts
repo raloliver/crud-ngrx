@@ -1,27 +1,34 @@
-// This file is required by karma.conf.js and loads recursively all the .spec and framework files
+/*
+ * File: test.ts
+ * Project: crud-ngrx
+ * Created: Wednesday, September 15th 2021, 6:52:04 pm
+ * Last Modified: Wednesday, September 15th 2021, 7:16:27 pm
+ * Copyright © 2021 AMDE Agência
+ */
 
 import 'zone.js/testing';
-import { getTestBed } from '@angular/core/testing';
+import {getTestBed} from '@angular/core/testing';
 import {
-  BrowserDynamicTestingModule,
-  platformBrowserDynamicTesting
+    BrowserDynamicTestingModule,
+    platformBrowserDynamicTesting,
 } from '@angular/platform-browser-dynamic/testing';
 
 declare const require: {
-  context(path: string, deep?: boolean, filter?: RegExp): {
-    keys(): string[];
-    <T>(id: string): T;
-  };
+    context(
+        path: string,
+        deep?: boolean,
+        filter?: RegExp
+    ): {
+        keys(): string[];
+        <T>(id: string): T;
+    };
 };
 
-// First, initialize the Angular testing environment.
 getTestBed().initTestEnvironment(
-  BrowserDynamicTestingModule,
-  platformBrowserDynamicTesting(),
-  { teardown: { destroyAfterEach: true }},
+    BrowserDynamicTestingModule,
+    platformBrowserDynamicTesting(),
+    {teardown: {destroyAfterEach: true}}
 );
 
-// Then we find all the tests.
 const context = require.context('./', true, /\.spec\.ts$/);
-// And load the modules.
 context.keys().map(context);

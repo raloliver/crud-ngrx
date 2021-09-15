@@ -2,14 +2,14 @@
  * File: index.js
  * Project: api
  * Created: Wednesday, September 15th 2021, 4:21:30 pm
- * Last Modified: Wednesday, September 15th 2021, 6:42:53 pm
+ * Last Modified: Wednesday, September 15th 2021, 7:07:48 pm
  * Copyright © 2021 AMDE Agência
  */
 
 const faker = require('faker');
 
 let db = {products: []};
-const qtty = 30;
+const qtty = 15;
 
 for (let index = 1; index <= qtty; index++) {
     let name = faker.commerce.product();

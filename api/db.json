@@ -2,243 +2,123 @@
     "products": [
         {
             "id": 1,
-            "name": "Computer",
-            "category": "Garden",
-            "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
-            "price": "528.00",
-            "image": "https://source.unsplash.com/720x480/?Computer"
-        },
-        {
-            "id": 2,
             "name": "Keyboard",
-            "category": "Movies",
-            "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
-            "price": "174.00",
+            "category": "Home",
+            "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+            "price": "527.00",
             "image": "https://source.unsplash.com/720x480/?Keyboard"
         },
         {
+            "id": 2,
+            "name": "Gloves",
+            "category": "Kids",
+            "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+            "price": "534.00",
+            "image": "https://source.unsplash.com/720x480/?Gloves"
+        },
+        {
             "id": 3,
-            "name": "Mouse",
-            "category": "Garden",
-            "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-            "price": "552.00",
-            "image": "https://source.unsplash.com/720x480/?Mouse"
+            "name": "Chips",
+            "category": "Outdoors",
+            "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+            "price": "781.00",
+            "image": "https://source.unsplash.com/720x480/?Chips"
         },
         {
             "id": 4,
-            "name": "Computer",
-            "category": "Jewelery",
-            "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-            "price": "952.00",
-            "image": "https://source.unsplash.com/720x480/?Computer"
+            "name": "Shirt",
+            "category": "Books",
+            "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+            "price": "747.00",
+            "image": "https://source.unsplash.com/720x480/?Shirt"
         },
         {
             "id": 5,
-            "name": "Pizza",
-            "category": "Electronics",
-            "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
-            "price": "464.00",
-            "image": "https://source.unsplash.com/720x480/?Pizza"
+            "name": "Car",
+            "category": "Toys",
+            "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+            "price": "641.00",
+            "image": "https://source.unsplash.com/720x480/?Car"
         },
         {
             "id": 6,
-            "name": "Bike",
-            "category": "Industrial",
+            "name": "Soap",
+            "category": "Home",
             "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-            "price": "873.00",
-            "image": "https://source.unsplash.com/720x480/?Bike"
+            "price": "201.00",
+            "image": "https://source.unsplash.com/720x480/?Soap"
         },
         {
             "id": 7,
             "name": "Shirt",
-            "category": "Jewelery",
-            "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-            "price": "956.00",
+            "category": "Kids",
+            "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+            "price": "563.00",
             "image": "https://source.unsplash.com/720x480/?Shirt"
         },
         {
             "id": 8,
-            "name": "Ball",
-            "category": "Computers",
-            "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
-            "price": "211.00",
-            "image": "https://source.unsplash.com/720x480/?Ball"
-        },
-        {
-            "id": 9,
-            "name": "Car",
-            "category": "Baby",
-            "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-            "price": "176.00",
-            "image": "https://source.unsplash.com/720x480/?Car"
-        },
-        {
-            "id": 10,
-            "name": "Chair",
-            "category": "Jewelery",
-            "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
-            "price": "42.00",
-            "image": "https://source.unsplash.com/720x480/?Chair"
-        },
-        {
-            "id": 11,
-            "name": "Bacon",
-            "category": "Garden",
-            "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-            "price": "800.00",
-            "image": "https://source.unsplash.com/720x480/?Bacon"
-        },
-        {
-            "id": 12,
-            "name": "Soap",
-            "category": "Baby",
-            "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-            "price": "507.00",
-            "image": "https://source.unsplash.com/720x480/?Soap"
-        },
-        {
-            "id": 13,
-            "name": "Pizza",
-            "category": "Movies",
-            "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
-            "price": "885.00",
-            "image": "https://source.unsplash.com/720x480/?Pizza"
-        },
-        {
-            "id": 14,
-            "name": "Car",
-            "category": "Electronics",
-            "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-            "price": "866.00",
-            "image": "https://source.unsplash.com/720x480/?Car"
-        },
-        {
-            "id": 15,
-            "name": "Cheese",
-            "category": "Computers",
-            "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
-            "price": "883.00",
-            "image": "https://source.unsplash.com/720x480/?Cheese"
-        },
-        {
-            "id": 16,
-            "name": "Tuna",
-            "category": "Computers",
-            "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
-            "price": "275.00",
-            "image": "https://source.unsplash.com/720x480/?Tuna"
-        },
-        {
-            "id": 17,
-            "name": "Pizza",
-            "category": "Outdoors",
-            "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
-            "price": "381.00",
-            "image": "https://source.unsplash.com/720x480/?Pizza"
-        },
-        {
-            "id": 18,
             "name": "Gloves",
-            "category": "Movies",
-            "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-            "price": "101.00",
+            "category": "Books",
+            "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+            "price": "746.00",
             "image": "https://source.unsplash.com/720x480/?Gloves"
         },
         {
-            "id": 19,
-            "name": "Bacon",
-            "category": "Sports",
-            "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-            "price": "282.00",
-            "image": "https://source.unsplash.com/720x480/?Bacon"
+            "id": 9,
+            "name": "Pizza",
+            "category": "Clothing",
+            "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+            "price": "306.00",
+            "image": "https://source.unsplash.com/720x480/?Pizza"
         },
         {
-            "id": 20,
-            "name": "Bacon",
-            "category": "Garden",
-            "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
-            "price": "587.00",
-            "image": "https://source.unsplash.com/720x480/?Bacon"
+            "id": 10,
+            "name": "Chicken",
+            "category": "Grocery",
+            "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+            "price": "246.00",
+            "image": "https://source.unsplash.com/720x480/?Chicken"
         },
         {
-            "id": 21,
-            "name": "Cheese",
-            "category": "Electronics",
-            "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
-            "price": "247.00",
-            "image": "https://source.unsplash.com/720x480/?Cheese"
+            "id": 11,
+            "name": "Soap",
+            "category": "Beauty",
+            "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+            "price": "134.00",
+            "image": "https://source.unsplash.com/720x480/?Soap"
         },
         {
-            "id": 22,
-            "name": "Table",
-            "category": "Games",
-            "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
-            "price": "5.00",
-            "image": "https://source.unsplash.com/720x480/?Table"
-        },
-        {
-            "id": 23,
+            "id": 12,
             "name": "Hat",
-            "category": "Automotive",
-            "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-            "price": "692.00",
+            "category": "Toys",
+            "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+            "price": "438.00",
             "image": "https://source.unsplash.com/720x480/?Hat"
         },
         {
-            "id": 24,
-            "name": "Chips",
-            "category": "Music",
-            "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
-            "price": "65.00",
-            "image": "https://source.unsplash.com/720x480/?Chips"
-        },
-        {
-            "id": 25,
-            "name": "Fish",
-            "category": "Movies",
-            "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
-            "price": "540.00",
-            "image": "https://source.unsplash.com/720x480/?Fish"
-        },
-        {
-            "id": 26,
-            "name": "Keyboard",
-            "category": "Kids",
-            "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
-            "price": "612.00",
-            "image": "https://source.unsplash.com/720x480/?Keyboard"
-        },
-        {
-            "id": 27,
-            "name": "Tuna",
-            "category": "Kids",
+            "id": 13,
+            "name": "Chicken",
+            "category": "Industrial",
             "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-            "price": "47.00",
-            "image": "https://source.unsplash.com/720x480/?Tuna"
+            "price": "551.00",
+            "image": "https://source.unsplash.com/720x480/?Chicken"
         },
         {
-            "id": 28,
-            "name": "Chips",
-            "category": "Music",
-            "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
-            "price": "810.00",
-            "image": "https://source.unsplash.com/720x480/?Chips"
+            "id": 14,
+            "name": "Cheese",
+            "category": "Automotive",
+            "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+            "price": "250.00",
+            "image": "https://source.unsplash.com/720x480/?Cheese"
         },
         {
-            "id": 29,
-            "name": "Bike",
-            "category": "Music",
-            "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
-            "price": "343.00",
-            "image": "https://source.unsplash.com/720x480/?Bike"
-        },
-        {
-            "id": 30,
-            "name": "Chips",
-            "category": "Health",
-            "description": "The Football Is Good For Training And Recreational Purposes",
-            "price": "95.00",
-            "image": "https://source.unsplash.com/720x480/?Chips"
+            "id": 15,
+            "name": "Fish",
+            "category": "Shoes",
+            "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+            "price": "519.00",
+            "image": "https://source.unsplash.com/720x480/?Fish"
         }
     ]
 }
