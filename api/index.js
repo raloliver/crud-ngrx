@@ -1,18 +1,17 @@
-const faker = require("faker");
+const faker = require('faker');
 
-let db = { people: [] };
-const qtty = 12;
+let db = {products: []};
+const qtty = 30;
 
 for (let index = 1; index <= qtty; index++) {
-    db.people.push({
+    let name = faker.commerce.product();
+    db.products.push({
         id: index,
-        name: faker.name.findName(),
-        email: faker.internet.email(),
-        about: faker.lorem.paragraph(),
-        phone: faker.phone.phoneNumber(),
-        job: faker.name.jobTitle(),
-        image: `https://api.hello-avatar.com/adorables/${faker.internet.email()}`,
-        country: faker.address.country()
+        name,
+        category: faker.commerce.department(),
+        description: faker.commerce.productDescription(),
+        price: faker.commerce.price(),
+        image: `https://source.unsplash.com/720x480/?${name}`,
     });
 }
 

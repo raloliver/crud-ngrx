@@ -1,0 +1,124 @@
+{
+    "people": [
+        {
+            "id": 1,
+            "name": "Carla Wuckert",
+            "email": "Dariana70@gmail.com",
+            "about": "Vitae dolor earum sunt eaque laboriosam. Rem aliquid dolores est animi repellendus inventore tenetur nihil. Magni enim excepturi.",
+            "phone": "(814) 509-2499",
+            "job": "Senior Security Coordinator",
+            "image": "https://api.hello-avatar.com/adorables/Dario.Collier78@yahoo.com",
+            "country": "Timor-Leste"
+        },
+        {
+            "id": 2,
+            "name": "Maurice Botsford DDS",
+            "email": "Adolf_Schmidt7@hotmail.com",
+            "about": "Minima laborum ex qui laboriosam quasi explicabo fugiat aspernatur eaque. Sed quia ut delectus. Aut qui hic explicabo aperiam eos eveniet suscipit perferendis. Mollitia atque quae iusto dolor.",
+            "phone": "1-718-956-3789 x406",
+            "job": "Lead Interactions Officer",
+            "image": "https://api.hello-avatar.com/adorables/Jaylon.Batz16@hotmail.com",
+            "country": "Kyrgyz Republic"
+        },
+        {
+            "id": 3,
+            "name": "Meghan Ullrich",
+            "email": "Elbert.Reynolds25@gmail.com",
+            "about": "Sit et eum dolorem id tenetur odio. Similique et porro. Voluptatem nostrum in velit id provident blanditiis magnam perspiciatis.",
+            "phone": "767-688-8884 x71569",
+            "job": "Product Security Administrator",
+            "image": "https://api.hello-avatar.com/adorables/Garnet10@yahoo.com",
+            "country": "Cuba"
+        },
+        {
+            "id": 4,
+            "name": "Derrick Hayes",
+            "email": "Walton15@gmail.com",
+            "about": "Illo tempore soluta in doloremque quia explicabo nemo aut dolorem. Impedit iste libero ipsam veritatis assumenda quia ea enim. Molestiae perferendis aut natus tempora nihil. Dolor similique ut neque in iusto laudantium quam.",
+            "phone": "923.389.6448",
+            "job": "Investor Usability Analyst",
+            "image": "https://api.hello-avatar.com/adorables/Enos74@yahoo.com",
+            "country": "New Caledonia"
+        },
+        {
+            "id": 5,
+            "name": "Ervin Mayer",
+            "email": "Garland.Kunde@gmail.com",
+            "about": "Sint voluptas ullam est. Ut sed perspiciatis. Beatae repellendus nam.",
+            "phone": "(837) 215-8124",
+            "job": "Lead Research Officer",
+            "image": "https://api.hello-avatar.com/adorables/Alford.Schaefer34@yahoo.com",
+            "country": "Paraguay"
+        },
+        {
+            "id": 6,
+            "name": "Doyle McLaughlin",
+            "email": "Blaise25@hotmail.com",
+            "about": "Dolore et omnis modi sint totam omnis expedita tempora. Ut dolorem aut quas amet iste. Ipsa aliquid quasi. Doloremque repudiandae aut eos voluptatem.",
+            "phone": "651.464.5934 x2554",
+            "job": "Legacy Program Designer",
+            "image": "https://api.hello-avatar.com/adorables/Oceane.Wilderman80@yahoo.com",
+            "country": "France"
+        },
+        {
+            "id": 7,
+            "name": "Jacquelyn VonRueden",
+            "email": "Geraldine.Dicki@gmail.com",
+            "about": "Consequatur aut non. Consectetur id fugiat qui. Molestiae et aut. Rerum velit fuga et rerum dolorem molestiae unde. Ea corrupti sunt rerum doloremque eum facere dolores ut.",
+            "phone": "326-861-6616 x79973",
+            "job": "Dynamic Applications Designer",
+            "image": "https://api.hello-avatar.com/adorables/Giovani0@yahoo.com",
+            "country": "Martinique"
+        },
+        {
+            "id": 8,
+            "name": "Grant Nicolas",
+            "email": "Lyla58@gmail.com",
+            "about": "Quia repudiandae aut ipsa velit omnis quaerat. Vel eveniet harum cupiditate nisi iure. Voluptatem vel aperiam eligendi. Excepturi ratione consequuntur veritatis temporibus. Sed error ipsa voluptatem a quae et sapiente. Dolor quia exercitationem qui ea atque non earum voluptas aliquid.",
+            "phone": "694.462.7170 x329",
+            "job": "Principal Branding Officer",
+            "image": "https://api.hello-avatar.com/adorables/Jamal13@hotmail.com",
+            "country": "Iraq"
+        },
+        {
+            "id": 9,
+            "name": "Danny Raynor",
+            "email": "Colt_Beahan14@hotmail.com",
+            "about": "Magnam atque sit ducimus in et et. Eligendi sed fugiat. Quidem quia modi tempore voluptas dolorem eum. Ut neque rem at neque nemo dolor tempore autem. Voluptatem explicabo sunt maiores vel ipsum est eos nam. Aut quasi corrupti nam ut magni nobis maiores.",
+            "phone": "1-381-314-5091",
+            "job": "Direct Configuration Analyst",
+            "image": "https://api.hello-avatar.com/adorables/Michele33@hotmail.com",
+            "country": "Cook Islands"
+        },
+        {
+            "id": 10,
+            "name": "Dean Quigley",
+            "email": "Roman_Bernier28@hotmail.com",
+            "about": "Qui quia sit excepturi. Aliquid consequuntur et sed blanditiis cupiditate repellat. Laborum doloribus veritatis. Doloremque id explicabo asperiores rerum. Nemo voluptatem quia optio architecto ducimus voluptatem.",
+            "phone": "559.239.7673 x491",
+            "job": "Global Group Analyst",
+            "image": "https://api.hello-avatar.com/adorables/Harrison.Kohler@yahoo.com",
+            "country": "Georgia"
+        },
+        {
+            "id": 11,
+            "name": "Teresa Mann",
+            "email": "Wendy.Quigley@hotmail.com",
+            "about": "Excepturi dolorem quasi aut quia eum necessitatibus nesciunt et dolores. Soluta voluptatem cumque et nisi. Sed architecto porro tenetur. Eius inventore voluptas inventore eaque id quo.",
+            "phone": "(836) 606-8494",
+            "job": "Corporate Data Engineer",
+            "image": "https://api.hello-avatar.com/adorables/Vito_Wilkinson82@yahoo.com",
+            "country": "Congo"
+        },
+        {
+            "id": 12,
+            "name": "Georgia O'Conner",
+            "email": "Leanne_Zboncak@yahoo.com",
+            "about": "Porro fugiat est assumenda dolores illum reprehenderit. Quam culpa ut dolorum dolor. Et magnam molestiae exercitationem atque nobis alias omnis.",
+            "phone": "1-270-647-6501 x73738",
+            "job": "Future Solutions Coordinator",
+            "image": "https://api.hello-avatar.com/adorables/Alexandrine70@hotmail.com",
+            "country": "Jordan"
+        }
+    ]
+}

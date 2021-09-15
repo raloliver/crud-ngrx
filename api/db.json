@@ -1,124 +1,244 @@
 {
-    "people": [
+    "products": [
         {
             "id": 1,
-            "name": "Carla Wuckert",
-            "email": "Dariana70@gmail.com",
-            "about": "Vitae dolor earum sunt eaque laboriosam. Rem aliquid dolores est animi repellendus inventore tenetur nihil. Magni enim excepturi.",
-            "phone": "(814) 509-2499",
-            "job": "Senior Security Coordinator",
-            "image": "https://api.hello-avatar.com/adorables/Dario.Collier78@yahoo.com",
-            "country": "Timor-Leste"
+            "name": "Computer",
+            "category": "Garden",
+            "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+            "price": "528.00",
+            "image": "https://source.unsplash.com/720x480/?Computer"
         },
         {
             "id": 2,
-            "name": "Maurice Botsford DDS",
-            "email": "Adolf_Schmidt7@hotmail.com",
-            "about": "Minima laborum ex qui laboriosam quasi explicabo fugiat aspernatur eaque. Sed quia ut delectus. Aut qui hic explicabo aperiam eos eveniet suscipit perferendis. Mollitia atque quae iusto dolor.",
-            "phone": "1-718-956-3789 x406",
-            "job": "Lead Interactions Officer",
-            "image": "https://api.hello-avatar.com/adorables/Jaylon.Batz16@hotmail.com",
-            "country": "Kyrgyz Republic"
+            "name": "Keyboard",
+            "category": "Movies",
+            "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+            "price": "174.00",
+            "image": "https://source.unsplash.com/720x480/?Keyboard"
         },
         {
             "id": 3,
-            "name": "Meghan Ullrich",
-            "email": "Elbert.Reynolds25@gmail.com",
-            "about": "Sit et eum dolorem id tenetur odio. Similique et porro. Voluptatem nostrum in velit id provident blanditiis magnam perspiciatis.",
-            "phone": "767-688-8884 x71569",
-            "job": "Product Security Administrator",
-            "image": "https://api.hello-avatar.com/adorables/Garnet10@yahoo.com",
-            "country": "Cuba"
+            "name": "Mouse",
+            "category": "Garden",
+            "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+            "price": "552.00",
+            "image": "https://source.unsplash.com/720x480/?Mouse"
         },
         {
             "id": 4,
-            "name": "Derrick Hayes",
-            "email": "Walton15@gmail.com",
-            "about": "Illo tempore soluta in doloremque quia explicabo nemo aut dolorem. Impedit iste libero ipsam veritatis assumenda quia ea enim. Molestiae perferendis aut natus tempora nihil. Dolor similique ut neque in iusto laudantium quam.",
-            "phone": "923.389.6448",
-            "job": "Investor Usability Analyst",
-            "image": "https://api.hello-avatar.com/adorables/Enos74@yahoo.com",
-            "country": "New Caledonia"
+            "name": "Computer",
+            "category": "Jewelery",
+            "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+            "price": "952.00",
+            "image": "https://source.unsplash.com/720x480/?Computer"
         },
         {
             "id": 5,
-            "name": "Ervin Mayer",
-            "email": "Garland.Kunde@gmail.com",
-            "about": "Sint voluptas ullam est. Ut sed perspiciatis. Beatae repellendus nam.",
-            "phone": "(837) 215-8124",
-            "job": "Lead Research Officer",
-            "image": "https://api.hello-avatar.com/adorables/Alford.Schaefer34@yahoo.com",
-            "country": "Paraguay"
+            "name": "Pizza",
+            "category": "Electronics",
+            "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+            "price": "464.00",
+            "image": "https://source.unsplash.com/720x480/?Pizza"
         },
         {
             "id": 6,
-            "name": "Doyle McLaughlin",
-            "email": "Blaise25@hotmail.com",
-            "about": "Dolore et omnis modi sint totam omnis expedita tempora. Ut dolorem aut quas amet iste. Ipsa aliquid quasi. Doloremque repudiandae aut eos voluptatem.",
-            "phone": "651.464.5934 x2554",
-            "job": "Legacy Program Designer",
-            "image": "https://api.hello-avatar.com/adorables/Oceane.Wilderman80@yahoo.com",
-            "country": "France"
+            "name": "Bike",
+            "category": "Industrial",
+            "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+            "price": "873.00",
+            "image": "https://source.unsplash.com/720x480/?Bike"
         },
         {
             "id": 7,
-            "name": "Jacquelyn VonRueden",
-            "email": "Geraldine.Dicki@gmail.com",
-            "about": "Consequatur aut non. Consectetur id fugiat qui. Molestiae et aut. Rerum velit fuga et rerum dolorem molestiae unde. Ea corrupti sunt rerum doloremque eum facere dolores ut.",
-            "phone": "326-861-6616 x79973",
-            "job": "Dynamic Applications Designer",
-            "image": "https://api.hello-avatar.com/adorables/Giovani0@yahoo.com",
-            "country": "Martinique"
+            "name": "Shirt",
+            "category": "Jewelery",
+            "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+            "price": "956.00",
+            "image": "https://source.unsplash.com/720x480/?Shirt"
         },
         {
             "id": 8,
-            "name": "Grant Nicolas",
-            "email": "Lyla58@gmail.com",
-            "about": "Quia repudiandae aut ipsa velit omnis quaerat. Vel eveniet harum cupiditate nisi iure. Voluptatem vel aperiam eligendi. Excepturi ratione consequuntur veritatis temporibus. Sed error ipsa voluptatem a quae et sapiente. Dolor quia exercitationem qui ea atque non earum voluptas aliquid.",
-            "phone": "694.462.7170 x329",
-            "job": "Principal Branding Officer",
-            "image": "https://api.hello-avatar.com/adorables/Jamal13@hotmail.com",
-            "country": "Iraq"
+            "name": "Ball",
+            "category": "Computers",
+            "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+            "price": "211.00",
+            "image": "https://source.unsplash.com/720x480/?Ball"
         },
         {
             "id": 9,
-            "name": "Danny Raynor",
-            "email": "Colt_Beahan14@hotmail.com",
-            "about": "Magnam atque sit ducimus in et et. Eligendi sed fugiat. Quidem quia modi tempore voluptas dolorem eum. Ut neque rem at neque nemo dolor tempore autem. Voluptatem explicabo sunt maiores vel ipsum est eos nam. Aut quasi corrupti nam ut magni nobis maiores.",
-            "phone": "1-381-314-5091",
-            "job": "Direct Configuration Analyst",
-            "image": "https://api.hello-avatar.com/adorables/Michele33@hotmail.com",
-            "country": "Cook Islands"
+            "name": "Car",
+            "category": "Baby",
+            "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+            "price": "176.00",
+            "image": "https://source.unsplash.com/720x480/?Car"
         },
         {
             "id": 10,
-            "name": "Dean Quigley",
-            "email": "Roman_Bernier28@hotmail.com",
-            "about": "Qui quia sit excepturi. Aliquid consequuntur et sed blanditiis cupiditate repellat. Laborum doloribus veritatis. Doloremque id explicabo asperiores rerum. Nemo voluptatem quia optio architecto ducimus voluptatem.",
-            "phone": "559.239.7673 x491",
-            "job": "Global Group Analyst",
-            "image": "https://api.hello-avatar.com/adorables/Harrison.Kohler@yahoo.com",
-            "country": "Georgia"
+            "name": "Chair",
+            "category": "Jewelery",
+            "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+            "price": "42.00",
+            "image": "https://source.unsplash.com/720x480/?Chair"
         },
         {
             "id": 11,
-            "name": "Teresa Mann",
-            "email": "Wendy.Quigley@hotmail.com",
-            "about": "Excepturi dolorem quasi aut quia eum necessitatibus nesciunt et dolores. Soluta voluptatem cumque et nisi. Sed architecto porro tenetur. Eius inventore voluptas inventore eaque id quo.",
-            "phone": "(836) 606-8494",
-            "job": "Corporate Data Engineer",
-            "image": "https://api.hello-avatar.com/adorables/Vito_Wilkinson82@yahoo.com",
-            "country": "Congo"
+            "name": "Bacon",
+            "category": "Garden",
+            "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+            "price": "800.00",
+            "image": "https://source.unsplash.com/720x480/?Bacon"
         },
         {
             "id": 12,
-            "name": "Georgia O'Conner",
-            "email": "Leanne_Zboncak@yahoo.com",
-            "about": "Porro fugiat est assumenda dolores illum reprehenderit. Quam culpa ut dolorum dolor. Et magnam molestiae exercitationem atque nobis alias omnis.",
-            "phone": "1-270-647-6501 x73738",
-            "job": "Future Solutions Coordinator",
-            "image": "https://api.hello-avatar.com/adorables/Alexandrine70@hotmail.com",
-            "country": "Jordan"
+            "name": "Soap",
+            "category": "Baby",
+            "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+            "price": "507.00",
+            "image": "https://source.unsplash.com/720x480/?Soap"
+        },
+        {
+            "id": 13,
+            "name": "Pizza",
+            "category": "Movies",
+            "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+            "price": "885.00",
+            "image": "https://source.unsplash.com/720x480/?Pizza"
+        },
+        {
+            "id": 14,
+            "name": "Car",
+            "category": "Electronics",
+            "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+            "price": "866.00",
+            "image": "https://source.unsplash.com/720x480/?Car"
+        },
+        {
+            "id": 15,
+            "name": "Cheese",
+            "category": "Computers",
+            "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+            "price": "883.00",
+            "image": "https://source.unsplash.com/720x480/?Cheese"
+        },
+        {
+            "id": 16,
+            "name": "Tuna",
+            "category": "Computers",
+            "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+            "price": "275.00",
+            "image": "https://source.unsplash.com/720x480/?Tuna"
+        },
+        {
+            "id": 17,
+            "name": "Pizza",
+            "category": "Outdoors",
+            "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+            "price": "381.00",
+            "image": "https://source.unsplash.com/720x480/?Pizza"
+        },
+        {
+            "id": 18,
+            "name": "Gloves",
+            "category": "Movies",
+            "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+            "price": "101.00",
+            "image": "https://source.unsplash.com/720x480/?Gloves"
+        },
+        {
+            "id": 19,
+            "name": "Bacon",
+            "category": "Sports",
+            "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+            "price": "282.00",
+            "image": "https://source.unsplash.com/720x480/?Bacon"
+        },
+        {
+            "id": 20,
+            "name": "Bacon",
+            "category": "Garden",
+            "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+            "price": "587.00",
+            "image": "https://source.unsplash.com/720x480/?Bacon"
+        },
+        {
+            "id": 21,
+            "name": "Cheese",
+            "category": "Electronics",
+            "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+            "price": "247.00",
+            "image": "https://source.unsplash.com/720x480/?Cheese"
+        },
+        {
+            "id": 22,
+            "name": "Table",
+            "category": "Games",
+            "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+            "price": "5.00",
+            "image": "https://source.unsplash.com/720x480/?Table"
+        },
+        {
+            "id": 23,
+            "name": "Hat",
+            "category": "Automotive",
+            "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+            "price": "692.00",
+            "image": "https://source.unsplash.com/720x480/?Hat"
+        },
+        {
+            "id": 24,
+            "name": "Chips",
+            "category": "Music",
+            "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+            "price": "65.00",
+            "image": "https://source.unsplash.com/720x480/?Chips"
+        },
+        {
+            "id": 25,
+            "name": "Fish",
+            "category": "Movies",
+            "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+            "price": "540.00",
+            "image": "https://source.unsplash.com/720x480/?Fish"
+        },
+        {
+            "id": 26,
+            "name": "Keyboard",
+            "category": "Kids",
+            "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+            "price": "612.00",
+            "image": "https://source.unsplash.com/720x480/?Keyboard"
+        },
+        {
+            "id": 27,
+            "name": "Tuna",
+            "category": "Kids",
+            "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+            "price": "47.00",
+            "image": "https://source.unsplash.com/720x480/?Tuna"
+        },
+        {
+            "id": 28,
+            "name": "Chips",
+            "category": "Music",
+            "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+            "price": "810.00",
+            "image": "https://source.unsplash.com/720x480/?Chips"
+        },
+        {
+            "id": 29,
+            "name": "Bike",
+            "category": "Music",
+            "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+            "price": "343.00",
+            "image": "https://source.unsplash.com/720x480/?Bike"
+        },
+        {
+            "id": 30,
+            "name": "Chips",
+            "category": "Health",
+            "description": "The Football Is Good For Training And Recreational Purposes",
+            "price": "95.00",
+            "image": "https://source.unsplash.com/720x480/?Chips"
         }
     ]
 }
