@@ -1,6 +1,14 @@
-const faker = require("faker");
+/*
+ * File: gen-people.js
+ * Project: api
+ * Created: Wednesday, September 15th 2021, 4:21:30 pm
+ * Last Modified: Wednesday, September 15th 2021, 6:43:23 pm
+ * Copyright © 2021 AMDE Agência
+ */
 
-let db = { people: [] };
+const faker = require('faker');
+
+let db = {people: []};
 const qtty = 12;
 
 for (let index = 1; index <= qtty; index++) {
@@ -12,7 +20,7 @@ for (let index = 1; index <= qtty; index++) {
         phone: faker.phone.phoneNumber(),
         job: faker.name.jobTitle(),
         image: `https://api.hello-avatar.com/adorables/${faker.internet.email()}`,
-        country: faker.address.country()
+        country: faker.address.country(),
     });
 }
 

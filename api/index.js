@@ -1,3 +1,11 @@
+/*
+ * File: index.js
+ * Project: api
+ * Created: Wednesday, September 15th 2021, 4:21:30 pm
+ * Last Modified: Wednesday, September 15th 2021, 6:42:53 pm
+ * Copyright © 2021 AMDE Agência
+ */
+
 const faker = require('faker');
 
 let db = {products: []};
