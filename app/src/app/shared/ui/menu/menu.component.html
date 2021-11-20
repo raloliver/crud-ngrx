@@ -2,11 +2,11 @@
 File: menu.component.html
 Project: crud-ngrx
 Created: Wednesday, September 15th 2021, 8:31:58 pm
-Last Modified: Wednesday, September 15th 2021, 8:35:41 pm
+Last Modified: Saturday, November 20th 2021, 12:06:13 pm
 Copyright © 2021 AMDE Agência
 -->
 <ng-container class="eight columns nav menu">
-    <a href="#team" class="nav link">Dashboard</a>
-    <a href="#features" class="nav link">Products</a>
+    <a [routerLink]="['/dashboard']" class="nav link">Dashboard</a>
+    <a [routerLink]="['/products']" class="nav link">Products</a>
     <a href="#plans" class="nav link">Categories</a>
 </ng-container>
