@@ -1,0 +1,69 @@
+<!--
+File: dashboard-page.component.html
+Project: crud-ngrx
+Created: Wednesday, September 15th 2021, 8:08:38 pm
+Last Modified: Thursday, January 6th 2022, 9:06:39 pm
+Copyright © 2021 AMDE Agência
+-->
+<div class="container">
+    <div class="dashboard">
+        <section class="line">
+            <div class="six columns">
+                <header class="pricing">
+                    <p class="pricing type">Products</p>
+                    <h4 class="pricing cost">
+                        <span class="pricing cost big">29</span>
+                    </h4>
+                    <!-- <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing
+                        elit. Laborum, molestiae voluptatem commodi beatae
+                        deserunt dolor ipsam voluptatum accusantium doloremque
+                        totam natus voluptatibus ipsa animi quasi repellat ab
+                        amet suscipit, atque?
+                    </p> -->
+                </header>
+                <table class="u-width-100">
+                    <tbody>
+                        <tr>
+                            <td><strong>Last Product Add</strong></td>
+                        </tr>
+                        <tr>
+                            <td>Priciest Product <strong>($527)</strong></td>
+                        </tr>
+                        <tr>
+                            <td>Cheapest Product <strong>($0)</strong></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <a [routerLink]="['/products']" class="button featured u-width-100">See All</a>
+            </div>
+            <div class="six columns">
+                <header class="pricing">
+                    <p class="pricing type">Categories</p>
+                    <h4 class="pricing cost">
+                        <span class="pricing cost big">9</span>
+                    </h4>
+                </header>
+                <table class="u-width-100">
+                    <tbody>
+                        <tr>
+                            <td><strong>Last Category Add</strong></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Category with more products
+                                <strong>(13)</strong>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Category without products <strong>(0)</strong>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <a [routerLink]="['/categories']" class="button featured u-width-100">See All</a>
+            </div>
+        </section>
+    </div>
+</div>

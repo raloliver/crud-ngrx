@@ -1,0 +1,41 @@
+<!--
+File: products-page.component.html
+Project: crud-ngrx
+Created: Wednesday, September 15th 2021, 8:16:30 pm
+Last Modified: Thursday, January 6th 2022, 8:40:12 pm
+Copyright © 2021 AMDE Agência
+-->
+<div class="container">
+    <div class="line">
+        <div class="twelve columns">
+            <h1>PRODUCTS</h1>
+            <table class="u-width-100">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Name</th>
+                        <th>Category</th>
+                        <th>Price</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td><a [routerLink]="[1]">Keyboard</a></td>
+                        <td>Computer</td>
+                        <td>99</td>
+                        <th><a [routerLink]="[1, 'edit']" class="featured button">Edit</a></th>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td><a [routerLink]="[2]">Hat</a></td>
+                        <td>Clothes</td>
+                        <td>13</td>
+                        <th><a [routerLink]="[2, 'edit']" class="featured button">Edit</a></th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
