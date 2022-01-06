@@ -2,7 +2,7 @@
  * File: app-routing.module.ts
  * Project: crud-ngrx
  * Created: Wednesday, September 15th 2021, 6:52:04 pm
- * Last Modified: Saturday, November 20th 2021, 12:56:37 pm
+ * Last Modified: Thursday, January 6th 2022, 6:53:29 pm
  * Copyright © 2021 AMDE Agência
  */
 
@@ -22,6 +22,13 @@ const routes: Routes = [
         path: 'products',
         loadChildren: () =>
             import('./products/products.module').then((m) => m.ProductsModule),
+    },
+    {
+        path: 'categories',
+        loadChildren: () =>
+            import('./categories/categories.module').then(
+                (m) => m.CategoriesModule
+            ),
     },
     {path: '**', redirectTo: 'dashboard'},
 ];
