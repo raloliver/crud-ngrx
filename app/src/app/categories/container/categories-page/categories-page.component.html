@@ -2,7 +2,7 @@
 File: categories-page.component.html
 Project: crud-ngrx
 Created: Thursday, January 6th 2022, 6:52:42 pm
-Last Modified: Thursday, January 6th 2022, 8:29:51 pm
+Last Modified: Thursday, January 6th 2022, 9:16:13 pm
 Copyright © 2021 AMDE Agência
 -->
 <div class="container">
@@ -21,15 +21,19 @@ Copyright © 2021 AMDE Agência
                 <tbody>
                     <tr>
                         <td>1</td>
-                        <td><a [routerLink]="[1]">Books</a></td>
+                        <td>Books</td>
                         <td>99</td>
-                        <th><a class="featured button">Edit</a></th>
+                        <th>
+                            <a [routerLink]="[1, 'edit']" class="featured button">Edit</a>
+                        </th>
                     </tr>
                     <tr>
                         <td>2</td>
-                        <td><a [routerLink]="[2]">Toys</a></td>
+                        <td>Toys</td>
                         <td>13</td>
-                        <th><a class="featured button">Edit</a></th>
+                        <th>
+                            <a [routerLink]="[2, 'edit']" class="featured button">Edit</a>
+                        </th>
                     </tr>
                 </tbody>
             </table>
