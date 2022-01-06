@@ -2,7 +2,7 @@
 File: products-page.component.html
 Project: crud-ngrx
 Created: Wednesday, September 15th 2021, 8:16:30 pm
-Last Modified: Saturday, November 20th 2021, 1:03:22 pm
+Last Modified: Thursday, January 6th 2022, 8:28:30 pm
 Copyright © 2021 AMDE Agência
 -->
 <div class="container">
@@ -16,20 +16,23 @@ Copyright © 2021 AMDE Agência
                         <th>Name</th>
                         <th>Category</th>
                         <th>Price</th>
+                        <th>Actions</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
                         <td>1</td>
-                        <td>Keyboard</td>
+                        <td><a [routerLink]="[1]">Keyboard</a></td>
                         <td>Computer</td>
                         <td>99</td>
+                        <th><a class="featured button">Edit</a></th>
                     </tr>
                     <tr>
                         <td>2</td>
-                        <td>Hat</td>
+                        <td><a [routerLink]="[2]">Hat</a></td>
                         <td>Clothes</td>
                         <td>13</td>
+                        <th><a class="featured button">Edit</a></th>
                     </tr>
                 </tbody>
             </table>
