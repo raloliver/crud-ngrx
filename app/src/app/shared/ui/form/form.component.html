@@ -1,0 +1,41 @@
+<!--
+File: form.component.html
+Project: crud-ngrx
+Created: Monday, January 10th 2022, 1:35:33 pm
+Last Modified: Monday, January 10th 2022, 1:54:10 pm
+Copyright © 2020 Proximus
+-->
+<form>
+  <div class="line">
+    <div [ngClass]="single ? {'twelve': true} : {'six': true}" class="columns">
+      <label for="name" class="u-width-100">Name</label>
+      <input class="u-width-100" type="text" id="name">
+    </div>
+    <ng-container *ngIf="!single">
+      <div class="three columns">
+        <label for="price" class="u-width-100">Price</label>
+        <input type="number" id="price">
+      </div>
+      <div class="three columns">
+        <label for="subject">Category</label>
+        <select id="subject" class="u-width-100">
+          <option value="1">one</option>
+          <option value="2">two</option>
+          <option value="3">three</option>
+        </select>
+      </div>
+    </ng-container>
+  </div>
+  <div *ngIf="!single" class="line">
+    <div class="twelve columns">
+      <label for="message">Description</label>
+      <textarea id="message" rows="10" class="u-width-100"></textarea>
+    </div>
+  </div>
+  <div class="line">
+    <div class="twelve columns">
+      <button type="submit" class="button featured u-width-100">Save</button>
+      <a class="button u-width-100">Remove</a>
+    </div>
+  </div>
+</form>
