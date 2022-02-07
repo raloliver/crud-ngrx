@@ -2,8 +2,8 @@
  * File: form.component.ts
  * Project: crud-ngrx
  * Created: Monday, January 10th 2022, 1:35:33 pm
- * Last Modified: Monday, January 10th 2022, 1:37:00 pm
- * Copyright © 2020 Proximus
+ * Last Modified: Monday, February 7th 2022, 5:24:20 pm
+ * Copyright © 2021 AMDE Agência
  */
 
 import {Component, Input, OnInit} from '@angular/core';
