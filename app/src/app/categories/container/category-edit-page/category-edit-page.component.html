@@ -2,34 +2,14 @@
 File: category-edit-page.component.html
 Project: crud-ngrx
 Created: Thursday, January 6th 2022, 9:10:44 pm
-Last Modified: Thursday, January 6th 2022, 9:16:36 pm
-Copyright © 2021 AMDE Agência
--->
-<!--
-File: product-edit-page.component.html
-Project: crud-ngrx
-Created: Thursday, January 6th 2022, 8:42:48 pm
-Last Modified: Thursday, January 6th 2022, 9:05:41 pm
+Last Modified: Monday, February 7th 2022, 5:20:39 pm
 Copyright © 2021 AMDE Agência
 -->
 <div class="container">
-    <div class="line">
-        <div class="twelve columns">
-            <h1>EDIT CATEGORY</h1>
-            <form>
-                <div class="line">
-                    <div class="twelve columns">
-                        <label for="name" class="u-width-100">Name</label>
-                        <input class="u-width-100" type="text" id="name">
-                    </div>
-                </div>
-                <div class="line">
-                    <div class="twelve columns">
-                        <input type="submit" value="Save" class="button featured u-width-100">
-                        <a class="button u-width-100">Remove</a>
-                    </div>
-                </div>
-            </form>
-        </div>
+  <div class="line">
+    <div class="twelve columns">
+      <h1>EDIT CATEGORY</h1>
+      <app-form [single]="true"> </app-form>
     </div>
+  </div>
 </div>
