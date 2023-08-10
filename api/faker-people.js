@@ -2,7 +2,7 @@
  * File: gen-people.js
  * Project: api
  * Created: Wednesday, September 15th 2021, 4:21:30 pm
- * Last Modified: Wednesday, September 15th 2021, 6:43:23 pm
+ * Last Modified: Thursday, August 10th 2023, 8:21:38 am
  * Copyright © 2021 AMDE Agência
  */
 
@@ -13,7 +13,7 @@ const qtty = 12;
 
 for (let index = 1; index <= qtty; index++) {
     db.people.push({
-        id: index,
+        guid: faker.datatype.uuid(),
         name: faker.name.findName(),
         email: faker.internet.email(),
         about: faker.lorem.paragraph(),
